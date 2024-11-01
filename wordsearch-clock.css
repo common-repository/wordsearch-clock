@@ -1,0 +1,44 @@
+#clock-face{
+	font-family:Courier, monospace;
+	background-color:white;
+	border:1px;
+	color:grey;
+	width:17em;
+	height:9em;
+	padding:1em;
+	text-align:center;
+	vertical-align:center;
+}
+#clock-face div{
+	display:inline;
+}
+.fixed-text {
+
+}
+.filler-text {
+
+}
+.minute {
+
+}
+.hour{
+
+}
+.h-active {
+	border:solid 1px;
+	border-radius:8px;
+	color:black;
+	font-weight:bold;
+}
+.m-active {
+	border:solid 1px;
+	border-radius:8px;
+	color:black;
+	font-weight:bold;
+}
+.t-active {
+	border:solid 1px;
+	border-radius:8px;
+	color:black;
+	font-weight:bold;
+}
